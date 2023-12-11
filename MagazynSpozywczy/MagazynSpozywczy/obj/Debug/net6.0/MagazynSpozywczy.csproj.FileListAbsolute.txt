@@ -1,0 +1,14 @@
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\bin\Debug\net6.0\MagazynSpozywczy.exe
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\bin\Debug\net6.0\MagazynSpozywczy.deps.json
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\bin\Debug\net6.0\MagazynSpozywczy.runtimeconfig.json
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\bin\Debug\net6.0\MagazynSpozywczy.dll
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\bin\Debug\net6.0\MagazynSpozywczy.pdb
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.dll
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\refint\MagazynSpozywczy.dll
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.pdb
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\MagazynSpozywczy.genruntimeconfig.cache
+C:\Users\Kuba\source\repos\MagazynSpozywczy\MagazynSpozywczy\obj\Debug\net6.0\ref\MagazynSpozywczy.dll
